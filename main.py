@@ -59,13 +59,5 @@ def main():
         else:
             print("Invalid option")
 
-    '''print("Original text:", plaintext)
-    
-    
-    
-    
-    
-    '''
-
 if __name__ == "__main__":
     main()
